@@ -1,38 +1,47 @@
-- Разрабатывал приложение для звонков AnyMeeting в международной компании
-Intermedia. Вел командные митинги
-https://play.google.com/store/apps/details?id=net.intermedia.newmeeting
+<div id="badges">
+  <a href="http://linkedin.com/in/boronin-serge">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/sergeiboronin/">
+    <img src="https://img.shields.io/badge/Instagram-bc2a8d?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://twitter.com/serboronin">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
-- Разрабатывал MVP-версию проекта "Деловых линий" (b2c сегмент). Занимался
-непосредственно разработкой, руководил работой 3х других разработчиков, занимался
-постановкой задач, оценкой сроков и анализом бизнес-требований.
-https://play.google.com/store/apps/details?id=ru.dellin.b2c
+## Портфолио
+
+- Разрабатывал приложение для звонков AnyMeeting в международной компании
+Intermedia. 
+[![Google Play Badge](https://img.shields.io/badge/Google&nbsp;Play-green?style=for-the-badge&logo=GooglePlay&logoColor=white)](https://play.google.com/store/apps/details?id=net.intermedia.newmeeting)
+
+- Участвовал в разработке приложения "Деловые Линии". Один из примеров,
+реализованных мной элементов - калькулятор стоимости на главном экране.
+[![Google Play Badge](https://img.shields.io/badge/Google&nbsp;Play-green?style=for-the-badge&logo=GooglePlay&logoColor=white)](https://play.google.com/store/apps/details?id=ru.dellin.cabinet)
+
+- Разрабатывал MVP-версию проекта "Деловые линии. Посылка" (b2c сегмент). 
+[![Google Play Badge](https://img.shields.io/badge/Google&nbsp;Play-green?style=for-the-badge&logo=GooglePlay&logoColor=white)](https://play.google.com/store/apps/details?id=ru.dellin.b2c)
 
 - Поддерживал приложение БТС - внутренный продукт для водителей грузовиков.
 
 - Разрабатывал MVP-версию приложения для курьерской доставки грузов "Get&Go -
-курьерская доставка" в сжатые сроки. Дальнейшая разработка полноценной версии
-проходила в команде из 3х разработчиков. На данный момент проект скрыт из публичного
-доступа, но является полностью рабочим продуктом.
-https://play.google.com/store/apps/details?id=ru.bia.courier
-
-- Участвовал в разработке приложения "Деловые Линии". Один из примеров,
-реализованных мной элементов - калькулятор стоимости на главном экране.
-https://play.google.com/store/apps/details?id=ru.dellin.cabinet
+курьерская доставка". 
+[![Google Play Badge](https://img.shields.io/badge/Google&nbsp;Play-green?style=for-the-badge&logo=GooglePlay&logoColor=white)](https://play.google.com/store/apps/details?id=ru.bia.courier)
 
 - Разрабатывал приложение-агрегатор для ресторанов. Первые участники "Две палочки",
 "Две пиццы", "Большая кухня". Занимался публикацией и настройкой аналитики.
-https://play.google.com/store/apps/details?id=com.supplerus.foodlovers
+[![Google Play Badge](https://img.shields.io/badge/Google&nbsp;Play-green?style=for-the-badge&logo=GooglePlay&logoColor=white)](https://play.google.com/store/apps/details?id=com.supplerus.foodlovers)
 
-- Разрабатывал приложение для сети ресторанов "Марчеллис".
-https://play.google.com/store/apps/details?id=com.supplerus.marcellis
+- Самостоятельно разрабатывал с нуля приложение для сети ресторанов "Марчеллис".
+[![Google Play Badge](https://img.shields.io/badge/Google&nbsp;Play-green?style=for-the-badge&logo=GooglePlay&logoColor=white)](https://play.google.com/store/apps/details?id=com.supplerus.marcellis)
 
-- Создал свое приложение для просмотра погоды SimpleWeather. Исходный код доступен на
-github:
-https://github.com/boronin-serge/simpleweather.
-https://play.google.com/store/apps/details?id=ru.boronin.simpleweather
+- Создал свое приложение для просмотра погоды SimpleWeather. 
+[![simpleweather](https://img.shields.io/badge/github-black?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/boronin-serge/simpleweather)
+[![Google Play Badge](https://img.shields.io/badge/Google&nbsp;Play-green?style=for-the-badge&logo=GooglePlay&logoColor=white)](https://play.google.com/store/apps/details?id=ru.boronin.simpleweather)
 
 - Создал приложение, работающее с API instagram. Дизайн проекта создавал сам в Figma.
-https://play.google.com/store/apps/details?id=ru.boronin.sgram
+[![Google Play Badge](https://img.shields.io/badge/Google&nbsp;Play-green?style=for-the-badge&logo=GooglePlay&logoColor=white)](https://play.google.com/store/apps/details?id=ru.boronin.sgram)
 
 - Работал над созданием приложения Aimoon. Коробочное решение для мелких бизнесов.
 Позволяет быстро подключать онлайн-магазины, которым требуется мобильное
@@ -42,14 +51,12 @@ https://play.google.com/store/apps/details?id=ru.boronin.sgram
 также находится в бета-тесте и не доступна публично.
 
 - Занимался публикацией приложения для фудмолла ДЕПО. Москва
-https://play.google.com/store/apps/details?id=io.framework7.testapp
+[![Google Play Badge](https://img.shields.io/badge/Google&nbsp;Play-green?style=for-the-badge&logo=GooglePlay&logoColor=white)](https://play.google.com/store/apps/details?id=io.framework7.testapp)
 
 - Создал кроссплатформенное (Qt/Qml) приложение для продажи hand-made товаров
 Remestore. Бета-версию можно посмотреть по ссылке (в скором времени может быть
 обновлено нативной версией):
-Android: https://play.google.com/store/apps/details?id=ru.applabs.Remestore
-iOS: https://itunes.apple.com/us/app/remestore/id1439733324?ls=1&mt=8
+[![Google Play Badge](https://img.shields.io/badge/Google&nbsp;Play-green?style=for-the-badge&logo=GooglePlay&logoColor=white)](https://play.google.com/store/apps/details?id=ru.applabs.Remestore)
 
 - Работал над кроссплатформенным (Qt/Qml) приложением для работы с
-фитнесс-браслетами. Бета-версию можно посмотреть по ссылке:
-https://play.google.com/store/apps/details?id=ru.applabs.band
+фитнесс-браслетами. 
